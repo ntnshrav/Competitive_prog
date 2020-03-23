@@ -1,4 +1,7 @@
 #https://practice.geeksforgeeks.org/problems/finding-the-numbers/0
+# XOR based solution https://www.geeksforgeeks.org/find-the-two-numbers-with-odd-occurences-in-an-unsorted-array/
+
+
 T = int(input())
 for t in range(T):
     N = int(input())
